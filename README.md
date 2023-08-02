@@ -1,3 +1,3 @@
-# Neovim-Config
-# Neovim-Config
-# Neovim-Config
+#SaMuCoder Config
+
+Prerequisite: install ripgrep.

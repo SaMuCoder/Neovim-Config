@@ -1,3 +1,3 @@
-#SaMuCoder Config
+SaMuCoder Config
 
 Prerequisite: install ripgrep.

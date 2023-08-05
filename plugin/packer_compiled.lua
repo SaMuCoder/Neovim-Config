@@ -134,6 +134,16 @@ _G.packer_plugins = {
     path = "/home/samucoder/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/theprimeagen/harpoon"
   },
+  ["impatient.nvim"] = {
+    loaded = true,
+    path = "/home/samucoder/.local/share/nvim/site/pack/packer/start/impatient.nvim",
+    url = "https://github.com/lewis6991/impatient.nvim"
+  },
+  indentLine = {
+    loaded = true,
+    path = "/home/samucoder/.local/share/nvim/site/pack/packer/start/indentLine",
+    url = "https://github.com/Yggdroot/indentLine"
+  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/home/samucoder/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
